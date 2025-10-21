@@ -1,0 +1,39 @@
+# Code Quality Rules
+
+## Core Principles
+
+- **DRY**: Avoid unnecessary repetition
+- **KISS**: Keep it simple, stupid
+- **YAGNI**: You aren't going to need it
+- **SOLID**: Follow SOLID principles, especially Single Responsibility
+
+## Naming & Readability
+
+- Use descriptive, meaningful names for variables, functions, and classes
+- Prioritize readability over cleverness
+- Use consistent formatting and indentation
+
+## Functions & Structure
+
+- Keep functions short (ideally under 20 lines)
+- Each function should do one thing well
+- Avoid hard-coded magic numbers (use named constants)
+
+## Code Quality
+
+- Write tests for your code
+- Handle errors properly
+- Refactor regularly to maintain code quality
+- Follow language-specific conventions
+
+## Documentation
+
+- Document complex logic with clear comments
+- Write docstrings for public APIs
+- Keep comments meaningful and up-to-date
+
+## Security & Best Practices
+
+- Consider security implications
+- Use version control effectively
+- Write code that's easy to maintain and extend
